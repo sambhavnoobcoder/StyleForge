@@ -1,0 +1,6 @@
+transformers
+diffusers
+ftfy
+torch
+gradio
+scipy
