@@ -56,9 +56,7 @@ certain prompt samples and their respective outputs :
 
 <img width="1246" alt="Screenshot 2023-08-19 at 1 39 28 PM" src="https://github.com/sambhavnoobcoder/StyleForge/assets/94298612/b5b4befa-3d12-47cd-812d-ef70f26189a8">
 
-
-<img width="455" alt="Screenshot 2023-08-19 at 6 09 55 PM" src="https://github.com/sambhavnoobcoder/StyleForge/assets/94298612/517f371f-61e8-4a3c-9abc-7fe02fee408b">
-
+<img width="455" alt="Screenshot 2023-08-19 at 6 11 25 PM" src="https://github.com/sambhavnoobcoder/StyleForge/assets/94298612/713fb884-f2d8-4482-9798-f70290e23220">
 
 
 <img width="1316" alt="Screenshot 2023-08-19 at 2 30 12 PM" src="https://github.com/sambhavnoobcoder/StyleForge/assets/94298612/c9eee045-417b-4a79-80c4-b450f2a7898c">
