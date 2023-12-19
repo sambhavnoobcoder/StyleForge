@@ -7,8 +7,6 @@ Chat with images as often as you like, allowing flexible modification.
 ## Authors
 
 - [@sambhavnoobcoder](https://www.github.com/sambhavnoobcoder)
-- [@anubhav](https://www.github.com/anubhav100rao)
-
 
 
 ## Badges
